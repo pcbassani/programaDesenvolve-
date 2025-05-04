@@ -21,6 +21,35 @@ A IA refere-se ao desenvolvimento de sistemas computacionais capazes de realizar
 
 <br/>
 
+# Aula 02 - Como a IA aprende? 🤖
+<div align="justify">
+
+As recomendações de produtos em sites como **Google, Mercado Livre, Amazon e Shopee** são exemplos claros da presença da **Inteligência Artificial (IA)** no nosso cotidiano. Essas plataformas analisam seus interesses, buscas e comportamentos para sugerir produtos de forma personalizada. A IA está por trás disso, tentando **entender seu perfil e prever o que pode te interessar**.
+<br/><br/>
+
+Mas afinal, **como a IA aprende?** Ela recebe **imagens, textos, sons e outros dados**, que são **convertidos em números** (pois é assim que os computadores entendem informação). Após o processamento, a IA devolve uma **resposta também em números**, que depois é **interpretada como texto, imagem ou ação**, dependendo da aplicação.
+<br/><br/>
+
+### 🧠 Formas de Aprendizado de Máquina
+
+| **Tipo de Aprendizado**       | **Como funciona**                                                                 | **Exemplo**                                   |
+|-------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------|
+| **Supervisionado**            | A IA aprende com dados rotulados, ou seja, já sabe qual é a resposta correta.     | Classificar e-mails como "spam" ou "não spam" |
+| **Não Supervisionado**        | A IA encontra padrões em dados não rotulados, descobrindo agrupamentos por conta própria. | Agrupar clientes por comportamento de compra  |
+| **Por Reforço**               | A IA aprende por tentativa e erro, recebendo recompensas ou punições a cada ação. | Algoritmos que aprendem a jogar xadrez        |
+
+<br/>
+
+### 🔁 Ciclo do Aprendizado por Reforço
+
+1. **Observar o ambiente**
+2. **Selecionar uma ação com base em uma política**
+3. **Receber recompensa ou penalidade**
+4. **Atualizar a política**
+5. **Repetir o ciclo continuamente**
+
+<br/>
+
 📘 _Este conteúdo foi produzido como parte do resumo das aulas do curso.  
 Organizado e formatado para melhor entendimento e apresentação no GitHub._
 <br/>
